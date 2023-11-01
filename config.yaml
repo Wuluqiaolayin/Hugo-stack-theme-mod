@@ -1,14 +1,14 @@
-baseurl: https://example.com
+baseurl: 
 languageCode: en-us
 theme: stack
 paginate: 5
-title: Example Site
+title: Super Hu
 
 # Change it to your Disqus shortname before using
 disqusShortname: stack
 
 # GA Tracking ID
-googleAnalytics:
+googleAnalytics: G-6G0BRMQQ7E
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk
@@ -27,10 +27,10 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: 
 
     footer:
-        since: 2020
+        since: 2023
         customText:
 
     dateFormat:
@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Learning All The Time.
         avatar:
             enabled: true
             local: true
@@ -135,16 +135,9 @@ params:
         enabled:
             - search
             - toc
-            - categories
             - archives
+            - categories
             - tag-cloud
-
-
-        archives:
-            limit: 5
-
-        tagCloud:
-            limit: 10
 
     opengraph:
         twitter:
@@ -190,7 +183,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/Wuluqiaolayin/Hugo-stack-theme-mod
           params:
               icon: brand-github
 
