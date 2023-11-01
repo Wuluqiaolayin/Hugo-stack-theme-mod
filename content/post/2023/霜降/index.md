@@ -2,7 +2,7 @@
 title: "霜降"
 description: 
 date: 2023-10-16T20:29:53+08:00
-image: 繁城之下.jpg
+image: 繁城之下.jpeg
 math: 
 license: 
 categories:
